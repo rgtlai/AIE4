@@ -41,9 +41,6 @@ class TextFileLoader:
                     ) as f:
                         self.documents.append(f.read())
                 if file.endswith(".pdf"):
-                        print('file****', file)
-                        print('root****', root)
-
                         doc = fitz.open(os.path.join(root, file))
                         text = ""
                         for page in doc:
