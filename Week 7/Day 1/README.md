@@ -3,7 +3,7 @@
      height="auto"/>
 </p>
 
-## <h1 align="center" id="heading">Fine-tuning Llama 3 8B Instruct.</h1>
+## <h1 align="center" id="heading">DSPy: Automated Prompt Engineering.</h1>
 
 ### Steps to Run:
 
